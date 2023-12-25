@@ -1,3 +1,0 @@
-ALTER TABLE Dept_Emp 
-ADD PRIMARY KEY (emp_no)
-;
